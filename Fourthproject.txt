@@ -1,0 +1,8 @@
+class Flower {
+         
+         fun blooming {
+
+                 println("Rose is blooming")
+                      }
+
+       }
